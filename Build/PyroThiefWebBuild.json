@@ -1,0 +1,17 @@
+{
+"companyName": "IcarusStudios",
+"productName": "Pyro Thief",
+"productVersion": "0.11",
+"dataUrl": "PyroThiefWebBuild.data.unityweb",
+"wasmCodeUrl": "PyroThiefWebBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "PyroThiefWebBuild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "PyroThiefWebBuild.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
